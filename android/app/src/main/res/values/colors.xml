@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--    My Questions colours    -->
+    <color name="text_color_poll_heading">#262628</color>
+    <color name="text_color_poll_update_time">#9B9B9B</color>
+    <color name="text_color_poll_descr">#4A4A4A</color>
+    <color name="my_question_divider_color">#FFBDBDBD</color>
+    <color name="color_main">#bd2c3a</color>
+    <color name="ColorPrimary">#bd2c3a</color>
+    <color name="color_handshake_request_button">#8DC63F</color>
+    <color name="apviser_font_color">#2A2A2A</color>
+    <color name="apviser_list_bg_color">#f1f2f2</color>
+    <color name="apviser_list_item_border_color">#afb1b3</color>
+    <color name="hashtag_colpr">#75b3ca</color>
+
+    <!--    My Questions colours    -->
+
+    <color name="text_color_primary_light">#FF212121</color>
+    <color name="text_color_secondary_light">#FFBDBDBD</color>
+    <color name="contact_badge_line_light">#ffffffff</color>
+    <color name="contact_badge_triangle_light">#cc1f1f1f</color>
+    <color name="contact_badge_overlay_light">#aa888888</color>
+
+    <!-- Dark Colors -->
+    <color name="text_color_primary_dark">#FAFAFA</color>
+    <color name="text_color_secondary_dark">#FF9E9E9E</color>
+    <color name="contact_badge_line_dark">#ff000000</color>
+    <color name="contact_badge_triangle_dark">#cc888888</color>
+    <color name="contact_badge_overlay_dark">#aa888888</color>
+
+    <color name="colorApviser">#FFFFFF</color>
+    <color name="notification_age_bg">#e2e2e2</color>
+    <color name="color_grey">#F5F3F3</color>
+    <color name="apviser_grey">#F5F3F3</color>
+    <color name="apviser_black">#2A2A2A</color>
+    <color name="splash_black">#000000</color>
+    <color name="colorPrimary_light">#669fff</color>
+    <color name="colorPrimary">#808080</color>
+    <color name="colorPrimaryDark_light">#2a5db2</color>
+    <color name="apviser_normal">#ffa726</color>
+    <color name="handshake_button_color">#332288</color>
+    <color name="handshake_button_font_color">#FFFFFF</color>
+    <color name="handshake_accept_border_color">#7f7f7f</color>
+
+    <color name="default_poll_button_good">#0B7931</color>
+    <color name="default_poll_button_normal">#DECD78</color>
+    <color name="default_poll_button_bad">#CD6678</color>
+    <color name="default_poll_button_font">#ffffff</color>
+    <color name="my_questions_content_font">#808080</color>
+    <color name="my_questions_list_background">#F2F2F2</color>
+    <color name="my_questions_custom_button_bg">#0B7931</color>
+    <color name="my_questions_answer_button_bg">#4477AA</color>
+    <color name="inactive_tab_bg">#FFFFFF</color>
+
+
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent_light">#424242</color>
+    <color name="background_light">#FFF3E0</color>
+
+    <!-- Dark colors -->
+    <color name="colorPrimary_dark">#2E7D32</color>
+    <color name="colorPrimaryDark_dark">#1B5E20</color>
+    <color name="colorAccent_dark">#FAFAFA</color>
+    <color name="colorAccent">#2a5db2</color>
+    <color name="background_dark">#263238</color>
+
+    <color name="bg_login">#26AE90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428BCA</color>
+    <color name="light_grey">#cfd8dc</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="overlay">#AA1C1C1C</color>
+    <color name="windowBackground">#1C1C1C</color>
+
+    <!-- for shimmer -->
+    <color name="background_shimmer">#DDDDDD</color>
+    <!-- for shimmer -->
+    <color name="arrow_color">#d2cccc</color>
+    <color name="transparent">#C0000000</color>
+    <color name="transparent2">#00000000</color>
+</resources>

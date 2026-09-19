@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "453905060766",
+    "firebase_url": "https://apviser-72c4e.firebaseio.com",
+    "project_id": "apviser-72c4e",
+    "storage_bucket": "apviser-72c4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453905060766:android:b0c75d931ea1613429fc8f",
+        "android_client_info": {
+          "package_name": "com.apviser.yasm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453905060766-p9df62v61kkrf07q5s616v08398ffeh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apviser.yasm",
+            "certificate_hash": "c734efe409e8ddc3538c9c07b8d97c7f2bb5a882"
+          }
+        },
+        {
+          "client_id": "453905060766-fe70bcstn9eaug7ujlpg0tog0jrutt88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbzO6lvmtww_bp21lHwHYKEvHbQHssOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453905060766-fe70bcstn9eaug7ujlpg0tog0jrutt88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453905060766:android:2950e1cd774c746429fc8f",
+        "android_client_info": {
+          "package_name": "com.yasm.apviser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453905060766-fe70bcstn9eaug7ujlpg0tog0jrutt88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbzO6lvmtww_bp21lHwHYKEvHbQHssOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453905060766-fe70bcstn9eaug7ujlpg0tog0jrutt88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
